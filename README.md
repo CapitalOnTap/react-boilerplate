@@ -22,7 +22,6 @@ To run project in dev environment
 
 ## Running - Prod
 
-`yarn build`
-`yarn start`
+`yarn build` and then `yarn start`
 
 You can find more details about running and deploying the project in the [Nextjs official repo]("https://github.com/zeit/next.js/").
