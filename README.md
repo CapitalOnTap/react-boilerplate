@@ -6,6 +6,7 @@ A boilerplate for react projects at COT using:
 - [Styled-Components]("https://www.styled-components.com/") - a css in js library to help you style components and use/reuse in a declarative fashion
 - [Cot-Experience component library]("https://github.com/CapitalOnTap/COTE") - gives you all of our brand guidelines out of the box
 - [Grid-Styled]("https://github.com/jxnblk/grid-styled") - used for simple, declarative flex grid system
+- [Redux]("Redux") - used for global state management
 
 ## Install
 
